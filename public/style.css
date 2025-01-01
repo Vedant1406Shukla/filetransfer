@@ -37,6 +37,7 @@ nav ul li a:hover {
 body {
 	background-image: url(bg.jpg);
 	font-family: "Roboto",sans-serif;
+	background-size: cover;
 }
 .screen {
 	display: none;
